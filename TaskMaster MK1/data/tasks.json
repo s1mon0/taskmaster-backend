@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "3ac71d61-c664-4d7f-8404-4b3392c7967a",
+    "listId": "9d78289e-4fd7-4863-83b3-5922e773e040",
+    "text": "Koupit chleba",
+    "isCompleted": false
+  },
+  {
+    "id": "cde62ca9-69aa-42b1-91f3-7ab544d89387",
+    "listId": "0f865199-afce-43a0-a75d-1fd52426fb98",
+    "text": "12 000,-",
+    "isCompleted": true
+  }
+]
